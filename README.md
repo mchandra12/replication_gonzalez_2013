@@ -9,7 +9,8 @@ This project seeks to replicate the core results of:
 
 
 [![Build Status](https://travis-ci.org/HumanCapitalAnalysis/microeconometrics-course-project-mchandra12.svg)](https://travis-ci.org/HumanCapitalAnalysis/microeconometrics-course-project-mchandra12)
-[![Continuous Integration](https://github.com/HumanCapitalAnalysis/microeconometrics-course-project-mchandra12/workflows/Continuous%20Integration/badge.svg)](https://github.com/HumanCapitalAnalysis/microeconometrics-course-project-mchandra12/actions)
+[![Continuous Integration](https://github.com/mchandra12/replication_gonzalez_2013/workflows/Continuous%20Integration/badge.svg)](https://github.com/mchandra12/replication_gonzalez_2013/actions)
+
 
 ## Viewing the notebook:
 
