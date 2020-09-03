@@ -18,14 +18,14 @@ This project seeks to replicate the core results of:
 
 -   Note that `mybinder` or `nbviewer` may run into errors with displaying images and the like.
 
-<a href="https://nbviewer.jupyter.org/github/HumanCapitalAnalysis/microeconometrics-course-project-mchandra12/blob/master/Replication.ipynb"
+<a href="https://nbviewer.jupyter.org/github/mchandra12/replication_gonzalez_2013/blob/master/Replication.ipynb"
    target="_parent">
    <img align="center"
   src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"
       width="109" height="20">
 </a>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HumanCapitalAnalysis/microeconometrics-course-project-mchandra12/master?filepath=Replication.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mchandra12/replication_gonzalez_2013/master?filepath=Replication.ipynb)
 
 ## Project Structure
 
