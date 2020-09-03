@@ -1,0 +1,14 @@
+__pxcache__/
+*.pyc
+.idea/
+.ipynb_checkpoints/
+*.html
+data-AER-1.dta
+data-AER-2.dta
+data-AER-3.dta
+split_dta.py
+*.do
+*.pdf
+notebook.py
+other.ipynb
+second.ipynb
