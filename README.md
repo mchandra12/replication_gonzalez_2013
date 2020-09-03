@@ -7,8 +7,7 @@ This project seeks to replicate the core results of:
 
 > González, Libertad. 2013. "The Effect of a Universal Child Benefit on Conceptions, Abortions, and Early Maternal Labor Supply." American Economic Journal: Economic Policy, 5 (3): 160-88.
 
-
-[![Build Status](https://travis-ci.org/HumanCapitalAnalysis/microeconometrics-course-project-mchandra12.svg)](https://travis-ci.org/HumanCapitalAnalysis/microeconometrics-course-project-mchandra12)
+[![Build Status](https://travis-ci.org/mchandra12/replication_gonzalez_2013.svg?branch=master)](https://travis-ci.org/mchandra12/replication_gonzalez_2013)
 [![Continuous Integration](https://github.com/mchandra12/replication_gonzalez_2013/workflows/Continuous%20Integration/badge.svg)](https://github.com/mchandra12/replication_gonzalez_2013/actions)
 
 
